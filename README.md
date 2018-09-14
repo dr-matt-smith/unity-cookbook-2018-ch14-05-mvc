@@ -1,2 +1,3 @@
-# unity-cookbook-2018-ch17-05-mvc
-Chapter 17 - recipe 5 - Model-View-Controller (MVC) pattern
+# unity-cookbook-2018-ch14-05-mvc
+
+Model-View-Controller (MVC) pattern
